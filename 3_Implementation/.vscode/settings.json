@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "unity_internals.h": "c",
+        "customer_billing.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
