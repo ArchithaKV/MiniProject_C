@@ -19,3 +19,4 @@ The project can be used in many aspects, firstly the application file generated 
 ## SWOT Analysis
 ![Swot analysis](https://user-images.githubusercontent.com/91197757/160225744-521da36c-6b8c-4a0a-9815-9f68e6ea5d9a.PNG)
 
+
