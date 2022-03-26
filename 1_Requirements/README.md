@@ -14,3 +14,8 @@ The project can be used in many aspects, firstly the application file generated 
 * Add balance to the account
 * Print information of all the customers
 
+![blockdiagram](https://user-images.githubusercontent.com/91197757/160225566-e11e171e-5313-4a27-a250-0b828287a550.PNG)
+
+#SWOT Analysis
+![swot](https://user-images.githubusercontent.com/91197757/160225602-518537b0-201f-4848-9da3-215e40ce1456.PNG)
+
