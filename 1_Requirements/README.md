@@ -16,6 +16,6 @@ The project can be used in many aspects, firstly the application file generated 
 
 ![blockdiagram](https://user-images.githubusercontent.com/91197757/160225566-e11e171e-5313-4a27-a250-0b828287a550.PNG)
 
-#SWOT Analysis
-![swot](https://user-images.githubusercontent.com/91197757/160225602-518537b0-201f-4848-9da3-215e40ce1456.PNG)
+## SWOT Analysis
+![Swot analysis](https://user-images.githubusercontent.com/91197757/160225744-521da36c-6b8c-4a0a-9815-9f68e6ea5d9a.PNG)
 
