@@ -46,7 +46,7 @@ Implemented using files,pointers and other C programming fucntionalities.
 | HR05| The customer's last transaction in the store have to be maintained| Technical | Implemented |
 
 ## Low Level Requirements:
-|ID | Description | HRL_ID | Status|
+|ID | Description | HR_ID | Status|
 |---|-------------|--------|-------|
 |LR01| New array cell of structure type shall be added for a new array cell of ecah new account | HR01 | Implemented|
 |LR02| Balance can be mantanied by creating a structure array each cell holding information of the user and their balance| HR02| Implemented |
