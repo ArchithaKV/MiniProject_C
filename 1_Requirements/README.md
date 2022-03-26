@@ -42,8 +42,14 @@ Implemented using files,pointers and other C programming fucntionalities.
 | HR02| Customer shall be able to mantain a Balance | Technical | Implemented |
 | HR03| Customer information can be displayed| Technical | Implemented |
 | HR03| Customer can pay the bill from e-wallet | Techinal | Implemented |
-| HR04| Customer can maintain money in account's wallet| technical| Implemented |
+| HR04| Customer can maintain money in account's wallet| Technical| Implemented |
 | HR05| The customer's last transaction in the store have to be maintained| Technical | Implemented |
 
-
+## Low Level Requirements:
+|ID | Description | HRL_ID | Status|
+|---|-------------|--------|-------|
+|LR01| New array cell of structure type shall be added for a new array cell of ecah new account | HR01 | Implemented|
+|LR02| Balance can be mantanied by creating a structure array each cell holding information of the user and their balance| HR02| Implemented |
+|LR03| Customer information can be displayed by printing the structure array| HR03| Implemented |
+|LR04| When paying bill the balance attribute is modified and updated| HR04| Implemented |
 
