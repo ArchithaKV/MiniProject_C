@@ -36,7 +36,14 @@ Implemented using files,pointers and other C programming fucntionalities.
 # Detail requirements
 
 ## High Level Requirements:
-|ID| Description|Category|Status|
-|:----:|:----:|:----:|:----:|
+|ID   | Description  | Category  | Status  |
+| --- | ------------ | --------- | ------- |
+| HR01| Customer shall be able to create a new account | Techinal | Implemented |
+| HR02| Customer shall be able to mantain a Balance | Technical | Implemented |
+| HR03| Customer information can be displayed| Technical | Implemented |
+| HR03| Customer can pay the bill from e-wallet | Techinal | Implemented |
+| HR04| Customer can maintain money in account's wallet| technical| Implemented |
+| HR05| The customer's last transaction in the store have to be maintained| Technical | Implemented |
+
 
 
