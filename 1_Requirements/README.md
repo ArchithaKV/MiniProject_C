@@ -31,7 +31,7 @@ This application manages customer billing data.
 To improve customer efficiency and customer satisfaction with billing.
 
 ## HOW 
-Implemented using files,pointers and other C programming fucntionalities.
+Implemented using structures, files and other C programming fucntionalities.
 
 # Detail requirements
 
