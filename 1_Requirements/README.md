@@ -19,4 +19,18 @@ The project can be used in many aspects, firstly the application file generated 
 ## SWOT Analysis
 ![Swot analysis](https://user-images.githubusercontent.com/91197757/160225744-521da36c-6b8c-4a0a-9815-9f68e6ea5d9a.PNG)
 
+# 4W's and 1H
+
+## WHO
+Any one who wants to view customer virtual wallet can use the application.
+
+## WHAT
+This application manages customer billing data.
+
+## WHY
+To improve customer efficiency and customer satisfaction with billing.
+
+## HOW 
+Implemented using 
+
 
