@@ -22,7 +22,7 @@ The main aim of this Project Customer Virtual Wallet is an application which is 
 | `2_Architecture`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
 | `4_Testplan`      | Documents with test plans and procedures|
-|  `Images`       | Project Images |
+| `5_Images`       | Project Images |
 
 ## Contributors List and Summary
 |LOI no. |  Name   |    Features    |
@@ -34,8 +34,4 @@ The main aim of this Project Customer Virtual Wallet is an application which is 
 
 1. Debugging
 2. Makefiles
-
-## Learning Resources 
-1. [git inspector](https://github.com/ejwa/gitinspector.git)
-2. [github workflow](https://docs.github.com/en/actions/learn-github-action)
 
