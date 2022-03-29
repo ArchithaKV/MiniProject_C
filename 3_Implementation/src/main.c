@@ -1,10 +1,11 @@
 /******************************************** 
 Project Name:CUSTOMER VIRTUAL WALLET.
-Author: Kadiyala Vamsi
-SF ID :- 314482
 LTTS Step-In Mini Project 
 Source filename: Customer_Billing.c
-Date: 4th-july-2021.
+Name: Architha K V
+LOI Id: 12079
+Mail id: arkv18ec@cmrit.ac.in
+
 *********************************************/
 
 
