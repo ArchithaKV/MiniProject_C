@@ -8,7 +8,6 @@ Mail id: arkv18ec@cmrit.ac.in
 
 *********************************************/
 
-
 #include "Customer_Billing.h"
   struct account {
 	char name[100];
@@ -67,7 +66,7 @@ void main()
                 main();
                 break;
             case '6':
-                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY VAMSI------->>>>>");
+                printf("<<<----------Records Saved Successfully<<>>Thanks For Using:):)--------->>>\n\t<<<<<------PROJECT BY Architha K V------->>>>>");
                 exit(0);
                 break;
         }
@@ -143,3 +142,5 @@ void main()
           }
           return;
       }
+
+
