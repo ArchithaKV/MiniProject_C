@@ -15,3 +15,27 @@ The main aim of this Project Customer Virtual Wallet is an application which is 
 * Codiga - Static analysis 
 ![Code Grade](https://api.codiga.io/project/32183/status/svg)
 
+## Folder Structure
+|Folder             | Description |
+|-------------------| -----------------------------------------|
+| `1_Requirements`   | Documents detailing requirements and research|
+| `2_Architecture`         | Documents specifying design details|
+| `3_Implementation` | All code and documentation|
+| `4_Testplan`      | Documents with test plans and procedures|
+|  `Images`       | Project Images |
+
+## Contributors List and Summary
+|LOI no. |  Name   |    Features    |
+|-------|---------|----------------|
+| `12079` | Architha K V | Add new account, Display contents, Pay bills, Add balance, Print info | 
+
+
+## Challenges Faced and How Was It Overcome
+
+1. Debugging
+2. Makefiles
+
+## Learning Resources 
+1. [git inspector](https://github.com/ejwa/gitinspector.git)
+2. [github workflow](https://docs.github.com/en/actions/learn-github-action)
+
