@@ -8,4 +8,7 @@ The main aim of this Project Customer Virtual Wallet is an application which is 
 * Codacy - Static code analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/bf82ffbcf10a44d8ab7ad4f338d3caa1)](https://www.codacy.com/gh/ArchithaKV/MiniProject_C/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=ArchithaKV/MiniProject_C&amp;utm_campaign=Badge_Grade)
 * Codiga - Static analysis
-![Quality](https://api.codiga.io/project/32183/score/svg)
+![Quality Score](https://api.codiga.io/project/32183/score/svg)
+![Quality Score](https://api.codiga.io/project/32183/status/svg)
+
+
