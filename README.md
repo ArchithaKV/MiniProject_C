@@ -22,7 +22,7 @@ The main aim of this Project Customer Virtual Wallet is an application which is 
 | `2_Desgin`         | Documents specifying design details|
 | `3_Implementation` | All code and documentation|
 | `4_Testplan`      | Documents with test plans and procedures|
-| `5_Images`       | Project Images |
+| `5_Images_and_Vedios`       | Project Images |
 
 ## Contributors List and Summary
 |LOI no. |  Name   |    Features    |
